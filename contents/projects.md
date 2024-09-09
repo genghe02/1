@@ -3,6 +3,7 @@
 - Pytorch
 - 提出了一个新的黑盒对抗攻击基准。
 - 产出文章一篇
+- Link：https://arxiv.org/abs/2312.16979
 
 基于Transformer的视觉问答技术研究与应用
 - Pytorch
