@@ -1,3 +1,22 @@
+ConsistencyEval: Rethinking the Code and Annotation Generation Capabilities of Large Language Models
+第一作者
+- 提出了新的代码&注释生成数据集
+- 对于不同LLM在代码以及注释生成上的表现进行了分析
+- 提出了基于retry以及Trajectory的代码生成方法，效果相对于baseline提升了3%；
+- 预期投稿2025 NIPS
+
+VLA-Mark: A cross modal watermark for large vision-language alignment models  
+共同作者
+- 我们提出了 VLA-Mark，这是一个视觉对齐框架，它嵌入了可检测的水印，同时通过跨模态协调保持语义保真度。
+- 我们的方法集成了多尺度视觉-文本对齐指标，结合了本地化补丁亲和力、全局语义一致性和上下文注意力模式，以指导水印注入，而无需重新训练模型。
+- 实验表明，与传统方法相比，PPL 降低了 7.4%，BLEU 提高了 26.6%，检测近乎完美 （98.8% AUC）。该框架展示了 96.1% 的攻击弹性，可抵御释义和同义词替换等攻击，同时保持文本视觉一致性，为保持质量的多模态水印建立了新标准。
+- 已投稿2025 ACL
+
+A Survey on Proactive Defense Strategies Against Misinformation in Large Language Models
+共同作者
+- 我们提出了一个三大支柱框架，包含（1） 知识可信度，加强训练和部署数据的完整性;（2） 推理可靠性，在推理过程中嵌入自我纠正机制;（3） 输入鲁棒性，增强模型接口对对抗性攻击的弹性。
+- 我们证明，尽管存在非同寻常的计算开销和泛化挑战，但主动防御策略在错误信息预防方面比传统方法提高了 63%。
+- 已投稿2025 ACL
 
 黑盒对抗基准研究
 - Pytorch
