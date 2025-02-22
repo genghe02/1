@@ -2,7 +2,7 @@
 目前我正在香港科技大学学习。
 
 #### Email
-1303683202@qq.com
+hgeng777@connect.hkust-gz.edu.cn
 
 #### Education
 2024.09 - 2026.10, 人工智能，香港科技大学（广州）
