@@ -18,7 +18,7 @@ A Survey on Proactive Defense Strategies Against Misinformation in Large Languag
 - 我们证明，尽管存在非同寻常的计算开销和泛化挑战，但主动防御策略在错误信息预防方面比传统方法提高了 63%。
 - 已投稿2025 ACL
 
-黑盒对抗基准研究
+黑盒对抗基准研究 参与者
 - Pytorch
 - 提出了一个新的黑盒对抗攻击基准。
 - 产出文章一篇
