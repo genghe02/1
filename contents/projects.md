@@ -22,7 +22,8 @@ A Survey on Proactive Defense Strategies Against Misinformation in Large Languag
 - Pytorch
 - 提出了一个新的黑盒对抗攻击基准。
 - 产出文章一篇
-- Link：https://arxiv.org/abs/2312.16979
+- 作为本科毕业设计，rank 1/156
+- 中稿TPAMI：https://arxiv.org/abs/2312.16979
 
 基于Transformer的视觉问答技术研究与应用
 - Pytorch
